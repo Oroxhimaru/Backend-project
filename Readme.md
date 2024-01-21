@@ -14,3 +14,4 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 
 1. package.json type : module means we are using import export syntax
 2. npm i -D nodemon for installing nodemon only for development
+3. npm i -D prettier / prettier plugin
