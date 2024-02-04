@@ -17,3 +17,4 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 3. npm i -D prettier / prettier plugin , prettiercr and ignore
 4. npm i mongoose-aggregate-paginate-v2
 5. npm i bcrypt jsonwebtoken
+6. multer for file uploading and cloudinary for image saving on internet
