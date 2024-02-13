@@ -18,3 +18,4 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 4. npm i mongoose-aggregate-paginate-v2
 5. npm i bcrypt jsonwebtoken
 6. multer for file uploading and cloudinary for image saving on internet
+7. if we don't export with default then have to use {} in import
